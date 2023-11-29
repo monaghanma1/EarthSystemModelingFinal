@@ -10,9 +10,13 @@ Theory: https://web.mit.edu/1.061/www/dream/FOUR/FOURTHEORY.PDF
 
 Practical: http://hplgit.github.io/wavebc/doc/pub/._wavebc_cyborg004.html
 
-How to push/pull main branch:
+Git Command Line Notes:
 git add . # adds entire folder 
 
 git commit -m "comments"
 
 git pull origin main # pull/push
+
+Jupyter Markdown Notes:
+https://jupyterbook.org/en/stable/content/math.html
+https://mljar.com/blog/jupyter-notebook-bold-italic-strikethrough-underline/
