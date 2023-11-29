@@ -9,3 +9,10 @@ Reading: Holton, J. R. (2004). An introduction to dynamic meteorology. In Intern
 Theory: https://web.mit.edu/1.061/www/dream/FOUR/FOURTHEORY.PDF
 
 Practical: http://hplgit.github.io/wavebc/doc/pub/._wavebc_cyborg004.html
+
+How to push/pull main branch:
+git add . # adds entire folder 
+
+git commit -m "comments"
+
+git pull origin main # pull/push
