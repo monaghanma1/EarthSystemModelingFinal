@@ -7,8 +7,9 @@ Links/References:
 Reading: Holton, J. R. (2004). An introduction to dynamic meteorology. In International Geophysics (Vol. 88). https://doi.org/10.1016/s0074-6142(08)x6005-x
 
 Theory: https://web.mit.edu/1.061/www/dream/FOUR/FOURTHEORY.PDF
+
 Yu, J.-Y. (n.d.). Waves in the atmosphere and oceans. Department of Earth System Science. https://vdocuments.mx/waves-in-the-atmosphere-and-oceanswaves-in-the-yuclassess228lecture6-waves.html 
-https://www.ess.uci.edu/~yu/class/ess228/lecture.6.adjustment.all.pdf
+
 
 Practical: http://hplgit.github.io/wavebc/doc/pub/._wavebc_cyborg004.html
 
