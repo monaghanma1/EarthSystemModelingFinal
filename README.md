@@ -8,7 +8,7 @@ Reading: Holton, J. R. (2004). An introduction to dynamic meteorology. In Intern
 
 Theory: https://web.mit.edu/1.061/www/dream/FOUR/FOURTHEORY.PDF
 
-Yu, Jin-Yi. Waves in the atmosphere and oceans. Department of Earth System Science. Accessed 28 November 20223. https://vdocuments.mx/waves-in-the-atmosphere-and-oceanswaves-in-the-yuclassess228lecture6-waves.html 
+Yu, Jin-Yi. Waves in the atmosphere and oceans. Department of Earth System Science. Accessed 28 November 2023. https://vdocuments.mx/waves-in-the-atmosphere-and-oceanswaves-in-the-yuclassess228lecture6-waves.html 
 
 
 Practical: http://hplgit.github.io/wavebc/doc/pub/._wavebc_cyborg004.html
